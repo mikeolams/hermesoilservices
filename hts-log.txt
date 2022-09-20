@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 29 Aug 2022 17:09:45 at https://asharamisynergy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://asharamisynergy.com/ -O1 "C:\My Web Sites\hermes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:12:55	Error: 	"Not Found" (404) at link https://asharamisynergy.com/business-solutions/asha-lubes.html (from https://asharamisynergy.com/)
+17:12:55	Error: 	"Not Found" (404) at link https://asharamisynergy.com/about/locations (from https://asharamisynergy.com/)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/GET (from https://asharamisynergy.com/)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/css/ajax-loader.gif (from https://asharamisynergy.com/assets/css/slick-theme.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/css/fonts/slick.eot (from https://asharamisynergy.com/assets/css/slick-theme.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/css/fonts/slick.eot? (from https://asharamisynergy.com/assets/css/slick-theme.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/css/fonts/slick.woff (from https://asharamisynergy.com/assets/css/slick-theme.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/css/fonts/slick.ttf (from https://asharamisynergy.com/assets/css/slick-theme.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/css/fonts/slick.svg (from https://asharamisynergy.com/assets/css/slick-theme.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/fonts/lg.eot?n1z373 (from https://asharamisynergy.com/assets/css/lightgallery.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/fonts/lg.eot? (from https://asharamisynergy.com/assets/css/lightgallery.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/fonts/lg.svg?n1z373 (from https://asharamisynergy.com/assets/css/lightgallery.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/img/vimeo-play.png (from https://asharamisynergy.com/assets/css/lightgallery.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/img/video-play.png (from https://asharamisynergy.com/assets/css/lightgallery.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/assets/img/youtube-play.png (from https://asharamisynergy.com/assets/css/lightgallery.css)
+17:12:57	Error: 	"Not Found" (404) at link https://asharamisynergy.com/business-solutions/GET (from https://asharamisynergy.com/business-solutions/operations)
+17:14:01	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/GET (from https://asharamisynergy.com/media/news)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/share (from https://asharamisynergy.com/media/news/asharami-synergy-receives-three-iso-certifications-promotes-downstream-sustainability)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy receives three ISO certifications, promotes downstream sustainability (from https://asharamisynergy.com/media/news/asharami-synergy-receives-three-iso-certifications-promotes-downstream-sustainability)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/GET (from https://asharamisynergy.com/media/news/asharami-synergy-receives-three-iso-certifications-promotes-downstream-sustainability)
+17:14:12	Error: 	"Bad Request" (400) at link https://asharamisynergy.com/media/news/Asharami Synergy targets 30% aviation fuel market share to enhance economic growth (from https://asharamisynergy.com/media/news/asharami-synergy-targets-30-aviation-fuel-market-share-to-enhance-economic-growth)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Value for Money Campaign as a Consumer Engagement Drive (from https://asharamisynergy.com/media/news/value-for-money-campaign-as-a-consumer-engagement-drive)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy offers value for money with ‘diesel to your doorstep’ initiative (from https://asharamisynergy.com/media/news/asharami-synergy-offers-value-for-money-with-diesel-to-your-doorstep-initiative)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/sustainability/GET (from https://asharamisynergy.com/sustainability/)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/resources/GET (from https://asharamisynergy.com/resources/redefining-business-building-a-new-system-network)
+17:14:12	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy enters lubricants’ market with high performing engine oil (from https://asharamisynergy.com/media/news/asharami-synergy-enters-lubricants-market-with-high-performing-engine-oil)
+17:15:17	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/photos/GET (from https://asharamisynergy.com/media/photos/events)
+17:15:17	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy Launches Asha Engine Oil to Meet Demand for Quality Lubricants (from https://asharamisynergy.com/media/news/asharami-synergy-launches-asha-engine-oil-to-meet-demand-for-quality-lubricants)
+17:15:17	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy Drives Access to Diesel with Door-2-Door Campaign (from https://asharamisynergy.com/media/news/asharami-synergy-drives-access-to-diesel-with-door-2-door-campaign)
+17:15:17	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy Bags ISO Certification For Quality Management Systems (from https://asharamisynergy.com/media/news/asharami-synergy-bags-iso-certification-for-quality-management-systems)
+17:15:17	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/news/Asharami Synergy Highlights Growth Enablers For African Downstream Sector At OTL 2018 (from https://asharamisynergy.com/media/news/asharami-synergy-highlights-growth-enablers-for-african-downstream-sector-at-otl-2018)
+17:15:17	Error: 	"Not Found" (404) at link https://asharamisynergy.com/media/videos/GET (from https://asharamisynergy.com/media/videos/people)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 32 seconds : 349 links scanned, 316 files written (40636590 bytes overall) [40040357 bytes received at 120603 bytes/sec], 1830916 bytes transferred using HTTP compression in 65 files, ratio 24%, 1.0 requests per connection
+(32 errors, 0 warnings, 0 messages)
